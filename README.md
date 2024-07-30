@@ -1,3 +1,3 @@
 # brainMR
 
-## crop = brian crop code
+crop = brian crop code
